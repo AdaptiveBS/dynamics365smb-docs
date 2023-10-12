@@ -66,7 +66,7 @@ The posted purchase invoices that you apply the credit memo to are now reversed.
 
 The purchase credit memo is removed and replaced with a new document in the list of posted purchase credit memos.
 
-## To create a purchase credit memo by copying a posted purchase invoice
+## Create a purchase credit memo by copying a posted purchase invoice
 
 1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Purchase Credit Memos**, and then choose the related link.
 2. Choose the **New** action to open a new empty purchase credit memo.
@@ -78,15 +78,15 @@ The purchase credit memo is removed and replaced with a new document in the list
 8. Choose the **OK** button. The copied invoice lines are inserted in the purchase credit memo.
 9. Complete the purchase credit memo as explained in [To create a purchase credit memo from a posted purchase invoice](purchasing-how-process-purchase-returns-cancellations.md#to-create-a-purchase-credit-memo-from-a-posted-purchase-invoice).
 
-## To create a purchase return order based on one or more posted purchase documents
+## Create a Purchase Return Order based on one or more posted purchase documents
 
-1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Purchase Return Orders**, and then choose the related link.  
-2. Choose the **New** action.  
-3. Fill in the fields on the **General** FastTab as necessary.
+1. Click on the global search ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Purchase Return Orders**, and then choose the related link.  
+2. Click the **New** action.  
+3. In the **General** FastTab, fill in the Vendor No., Vendor Cr. Memo No. and Order Type Code fields in the header of the return order.
 4. On the **Lines** FastTab, fill the lines manually, or copy information from other documents to fill the lines automatically:
 
     - Use the **Get Posted Document Lines to Reverse** function to copy one or more posted document lines from one or more posted documents. This function always exactly reverses the costs from the posted document line. This function is described in the following steps.    
-    - Use the **Copy from Document** function to copy an existing document to the return order. Use this function to copy the entire document. It can be either a posted document or a document that is not yet posted. This function only enables exact cost reversing when the **Exact Cost Reversing Mandatory** check box is selected on the **Sales and Receivables Setup** page.  
+    - Use the **Copy Document** function to copy an existing document to the return order. Use this function to copy the entire document. It can be either a posted document or a document that is not yet posted. This function only enables exact cost reversing when the **Exact Cost Reversing Mandatory** check box is selected on the **Sales and Receivables Setup** page.  
 
 5. Choose the **Get Posted Document Lines to Reverse** action.
 6. At the top of the **Posted Purchase Document Lines** page, select the **Show Reversible Lines Only** check box if you want to see only lines that have quantities that have not yet been returned. For example, if a posted purchase invoice quantity has already been returned, you may not want to include that quantity on a new purchase return document.
