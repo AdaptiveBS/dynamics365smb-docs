@@ -30,7 +30,7 @@ ms.author: Sylwen
 
 
 > [!TIP]
-> You can Calapse or Expand the **FactBox** by clicking on the **!** icon on the top righ of the window.
+> You can collapse or expand the **FactBox** by clicking on the **!** icon on the top right of the window.
 
 
 ![Image](aj-media/AJ-Receiving-Log-Ref-1.png "AJ Receiving Log Ref-1")
