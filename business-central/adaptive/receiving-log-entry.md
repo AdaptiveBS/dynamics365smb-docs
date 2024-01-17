@@ -24,7 +24,7 @@ ms.author: Sylwen
 1. The **Description** field will auto populate from the selected Vendor or Customer Name.
 1. In the **External Document No.** field, enter your reference number. (Example - vendor invoice number packing list number or memo number)
 1. In the **Total Amount** field, enter an amount.
-1. In the **Total Quantity** field, enter a quantity( not mandatory field).
+1. In the **Total Quantity** field, enter a quantity (not mandatory field).
 1. In the **Receiver Comment** field, record a comment if needed.
 1. Click on **Print**, then click **Print** again to print out a label.
 1. Attach label to Documents.
