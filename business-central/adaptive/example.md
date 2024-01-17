@@ -30,4 +30,3 @@ Here we have an image:
 
 ![Image Test](images/san-juan-mountains.jpg "Beautiful Mountains")
 
-test change
