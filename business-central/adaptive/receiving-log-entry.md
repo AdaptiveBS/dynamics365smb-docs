@@ -26,7 +26,7 @@ ms.author: Sylwen
 1. In the **Total Amount** field, enter an amount.
 1. In the **Total Quantity** field, enter a quantity (not mandatory field).
 1. In the **Receiver Comment** field, record a comment if needed.
-1. Click on **Print**, then click **Print** again to print out a label.
+1. Select on **Print**, then select **Print** again to print out a label.
 1. Attach label to Documents.
 
 
