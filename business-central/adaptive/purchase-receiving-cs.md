@@ -31,3 +31,11 @@ ms.author: Sylwen
 1. In the **Vendor Item No.** field, enter the vendor reference number. (Optional)
 1. In the **Vendor Quoted Price** field, enter the vendor price.
 1. In the **List Price** field, enter the sale price.
+1. Select **Accept & New Item** from the menu bar.
+    1. Repeat actions from **step 8** to add more items.
+1. Select **Accept & Clear** from the menu bar.
+1. Select all items created on the **Line** line to print all labels.
+1. From the **Lines** menu, select **Print Default Label**
+1. Select label to print.
+1. Select **Post** from the menu bar.
+1. Next you will be receive a prompt, *Do you want to open the Purchase Invoice?* Select **Yes** if you want to review the Purchase Invoice. Select **No** to complete the task.
